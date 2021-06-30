@@ -13,4 +13,4 @@ export const INITIAL_TIMER = 0 //Date.now() difference
 export const ACTION_LABEL = 'Action'
 export const TIMER_LABEL = 'Timer'
 export const TIME_LABEL = "Clock"
-export const NOTE_LABEL = 'Note'
+export const NOTE_LABEL = 'Comment it!'
