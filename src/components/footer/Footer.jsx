@@ -18,6 +18,7 @@ const Footer = () => (
                 rel="noopener noreferrer">
                 GitHub
             </a>
+            .
         </p>
     </div>
 )
