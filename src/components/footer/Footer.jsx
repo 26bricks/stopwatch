@@ -13,10 +13,10 @@ const Footer = () => (
         <p className='footer-content'>
             You can find more information on <a
                 className="link"
-                href="https://seznam.cz"
+                href="https://github.com/26bricks/stopwatch/"
                 target="_blank"
                 rel="noopener noreferrer">
-                www.seznam.cz
+                GitHub
             </a>
         </p>
     </div>
