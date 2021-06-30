@@ -1,0 +1,20 @@
+.log-input {
+    color: $font-text-written-color;
+    font-size: 0.95rem;
+    // font-style: italic;
+    margin: 0px 0px 2px 0px;
+    border-width: 0px;
+    width:13.3rem;
+}
+
+th {
+    color: $black;
+    padding: 0 0.3rem 0.3rem 0.3rem;
+    font-weight: normal;
+}
+
+td {
+    color: $black;
+    padding: 0 0.3rem;
+    text-align: center;
+}

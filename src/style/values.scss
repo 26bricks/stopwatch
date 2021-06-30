@@ -1,0 +1,40 @@
+@import "constants.scss";
+
+%value-normal {
+    color: $black-lighter;
+    font-weight: normal;
+}
+
+.value-large {
+    @extend %value-normal;
+    font-size: $font-size-largest;
+    padding: 0rem;
+}
+
+.value-large-started {
+    @extend %value-normal;
+    color: $green-sharp;
+    font-size: $font-size-largest;
+    padding: 0rem;
+}
+
+.value-large-stopped {
+    @extend %value-normal;
+    color: $red-sharp;
+    font-size: $font-size-largest;
+    padding: 0rem;
+}
+
+.value-box {
+    padding: 0 1.4rem 1.5rem 1.4rem;
+    float: left;
+}
+
+.value-panel {
+    overflow: auto;
+    padding:2rem 0 0.5rem 0;
+}
+
+.value-label {
+    text-align: center;
+}

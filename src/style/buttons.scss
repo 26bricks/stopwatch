@@ -1,0 +1,54 @@
+@import "constants.scss";
+
+%button-normal {
+    color: $white;
+    background: $gray;
+    border-width: 0;
+    border-radius: $button-radius;
+    transition-duration: $button-transition-duration;
+    margin: 4px;
+    cursor: pointer;
+}
+
+%button-normal:hover {
+    background-color: $gray-lighter;
+}
+
+.button-medium {
+    @extend %button-normal;
+    font-size: $font-size-large;
+    min-width: $button-width-medium;
+    min-height: $button-height-medium;
+}
+
+.button-start {
+    @extend %button-normal;
+    font-size: $font-size-large;
+    background-color: $green;
+    min-width: $button-width-medium;
+    min-height: $button-height-medium;
+}
+
+.button-start:hover {
+    background-color: $green-lighter;
+}
+
+.button-pause {
+    @extend %button-normal;
+    font-size: $font-size-large;
+    background-color: $red;
+    min-width: $button-width-medium;
+    min-height: $button-height-medium;
+}
+
+.button-pause:hover {
+    background-color: $red-lighter;
+}
+
+.button-small {
+    @extend %button-normal;
+    font-size: $font-size-medium;
+    vertical-align: top;
+    height: 2.25rem;
+    width: 3.4rem;
+}

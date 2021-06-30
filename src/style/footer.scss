@@ -1,0 +1,26 @@
+.footer {
+  padding: $page-margin;
+  background-color: $black;
+  color: $white-lighter;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.footer-heading {
+  margin: 0 0 0.5rem 0;
+  color: $white-lighter;
+}
+
+.footer-content {
+  margin: 0;
+}
+
+.logo {
+  margin-right: 0.3rem;
+}
+
+.link {
+  color: $link-light;
+}
