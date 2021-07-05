@@ -1,6 +1,6 @@
 ![GitHub Logo](/src/stopwatch.png)
 
-# Getting Started with Create React App
+# Getting Started with Create React App1
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
