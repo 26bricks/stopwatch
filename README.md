@@ -1,2 +1,2 @@
-# Getting Started with Stopwatch app
+# Getting Started with Stopwatch
 ![GitHub Logo](/src/stopwatch.png)
