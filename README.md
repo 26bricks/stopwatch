@@ -5,4 +5,4 @@ Clear button: resets timer and clear logs
 ## Simple start - stop
 ![Simple start - stop usage image](/src/stopwatch_start_stop_usage.png)
 ## From orienteering championship
-![Orienteering championship usage image](/src/stopwatch_real_orienteering_usage.jpb)
+![Orienteering championship usage image](/src/stopwatch_real_orienteering_usage.jpg)
