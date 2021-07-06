@@ -1,11 +1,16 @@
-import { render, screen } from '@testing-library/react';
+import { render, screen, fireEvent } from '@testing-library/react';
 import AppWrapper from './components/AppWrapper'
 
-test('renders learn react link', () => {
+test('start / pause button', () => {
   render(
     <AppWrapper />
   );
 
-  const linkElement = screen.getByText(/start/i);
-  expect(linkElement).toBeInTheDocument();
+  const startButton = screen.getByText(/start/i);
+  expect(startButton).toBeInTheDocument();
+
+  fireEvent.click(startButton);
+
+  const pauseButton = screen.getByText(/pause/i);
+  expect(pauseButton).toBeInTheDocument();
 });
