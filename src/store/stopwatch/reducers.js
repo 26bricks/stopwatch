@@ -34,7 +34,7 @@ const stopwatchReducer = (state = initialState, action) => {
                 action: action,
                 timer: formatTimeDifference(state.timer),
                 time: formatTime(new Date()),
-                note: action == 'Reset' ? '' : ''  //Prepared for an automatic description
+                note: action === 'Reset' ? '' : ''  //Prepared for an automatic description
             }].concat(newLog)
         )
     }
