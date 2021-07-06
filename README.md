@@ -1,8 +1,8 @@
 # Getting started with Stopwatch
-start / pause button: runs and alternates start and pause action\
+Start / pause button: runs and alternates start and pause action\
 Log button: adds a log\
 Reset button: resets timer\
-Clear button: resets timer and clear logs
+Clear button: resets timer and clears logs
 # Usage samples
 ## Simple start - stop
 ![Simple start - stop usage image](/src/stopwatch_start_stop_usage.png)
