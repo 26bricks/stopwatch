@@ -1,7 +1,7 @@
 import { render, screen, fireEvent } from '@testing-library/react';
 import AppWrapper from './components/AppWrapper'
 
-test('start / pause button', () => {
+test('Start / pause button', () => {
   render(
     <AppWrapper />
   );
