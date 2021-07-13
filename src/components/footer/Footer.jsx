@@ -19,7 +19,7 @@ const Footer = () => (
                 GitHub
             </a> and <a
                 className="link"
-                href="https://hub.docker.com/r/26bricks/ps-stopwatch/"
+                href="https://hub.docker.com/r/26bricks/stopwatch/"
                 target="_blank"
                 rel="noopener noreferrer">
                 Dockerhub
