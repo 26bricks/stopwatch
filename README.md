@@ -1,4 +1,16 @@
-# Getting started with Stopwatch
+# Technologies
+The application is based on React and Redux.
+
+# How to use
+Open webbrowser at https://26bricks.github.io/stopwatch/
+
+or
+
+1. Clone application to your local folder\
+2. Open terminal and run npm install\
+3. Run npm start\
+4. Open webbrowser at localhost:3000
+# Getting started
 ## Buttons meanings
 Start / pause button: runs and alternates start and pause action\
 Log button: adds a log\
