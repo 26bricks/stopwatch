@@ -2,7 +2,7 @@
 
 It is possible to comment logged actions.
 
-## Buttons meaning
+## Buttons meanings
 
 Start / pause button: runs and alternates start and pause action\
 Log button: adds a log\
@@ -11,21 +11,21 @@ Clear button: resets timer and clears logs
 
 # Usecases
 
-## Start - stop usage
+## Start - stop
 
 Roles: user, system
 
 User  | System
 :------------- | :-------------
-presses start button|x
-x|starts counter
-x|changes start button label to pause
-presses pause button|x 
-x|pause counter
-x|changes pause button label to start
+presses start button|&nbsp;
+&nbsp;|starts counter
+&nbsp;|changes start button label to pause
+presses pause button|&nbsp;
+&nbsp;|pause counter
+&nbsp;|changes pause button label to start
 
 ![Simple start - stop usage image](/src/stopwatch_start_stop.png)
 
-## A snapshot from orienteering championship
+## Commented championship
 
 ![Orienteering championship usage image](/src/stopwatch_orienteering.png)
