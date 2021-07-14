@@ -23,9 +23,11 @@ presses pause button|&nbsp;
 &nbsp;|changes pause button label to start
 
 \
+Result:
 ![Simple start - stop usage image](/src/stopwatch_start_stop.png)
 
 ## Commented championship usecase
 Roles: user, system
 
+Result:
 ![Orienteering championship usage image](/src/stopwatch_orienteering.png)
