@@ -12,6 +12,7 @@ or
 4. Open webbrowser at localhost:3000
 
 or
+
 use Docker Hub image at https://hub.docker.com/repository/docker/26bricks/stopwatch
 # Getting started
 ## Buttons meanings
