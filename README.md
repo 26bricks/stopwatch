@@ -6,10 +6,13 @@ Open webbrowser at GitHub Pages' https://26bricks.github.io/stopwatch/
 
 or
 
-1. Clone application to your local folder
+1. Clone this repository content to your local folder
 2. Open terminal and run npm install
 3. Run npm start
 4. Open webbrowser at localhost:3000
+
+or
+use Docker Hub image at https://hub.docker.com/repository/docker/26bricks/stopwatch
 # Getting started
 ## Buttons meanings
 Start / pause button: runs and alternates start and pause action\
