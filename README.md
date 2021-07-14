@@ -1,6 +1,6 @@
 # Getting started with Stopwatch
 
-It is possible comment logged actions.
+It is possible to comment logged actions.
 
 ## Buttons meaning
 
@@ -17,12 +17,12 @@ Roles: user, system
 
 User  | System
 :------------- | :-------------
-presses start button | 
-  | starts counter
-  | changes start button label to pause
-presses pause button | 
-  | pause counter
-  | changes pause button label to start
+presses start button|x
+x|starts counter
+x|changes start button label to pause
+presses pause button|x 
+x|pause counter
+x|changes pause button label to start
 
 ![Simple start - stop usage image](/src/stopwatch_start_stop.png)
 
