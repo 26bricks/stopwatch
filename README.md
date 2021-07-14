@@ -3,7 +3,7 @@
 Start / pause button: runs and alternates start and pause action\
 Log button: adds a log\
 Reset button: resets timer\
-Clear button: resets timer and clears logs\
+Clear button: resets timer and clears logs
 
 It is possible to comment logged actions.
 
@@ -15,9 +15,11 @@ User  | System
 :------------- | :-------------
 presses start button|&nbsp;
 &nbsp;|starts counter
+&nbsp;|changes start button color to red
 &nbsp;|changes start button label to pause
 presses pause button|&nbsp;
 &nbsp;|pauses counter
+&nbsp;|changes pause button color to green
 &nbsp;|changes pause button label to start
 
 \
