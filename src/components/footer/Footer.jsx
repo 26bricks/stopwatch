@@ -22,7 +22,7 @@ const Footer = () => (
                 href="https://hub.docker.com/r/26bricks/stopwatch/"
                 target="_blank"
                 rel="noopener noreferrer">
-                Dockerhub
+                Docker Hub
             </a>
             .
         </p>
