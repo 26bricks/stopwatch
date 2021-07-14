@@ -2,13 +2,13 @@
 The application is based on React and Redux.
 
 # How to use
-Open webbrowser at https://26bricks.github.io/stopwatch/
+Open webbrowser at GitHub Pages' https://26bricks.github.io/stopwatch/
 
 or
 
-1. Clone application to your local folder\
-2. Open terminal and run npm install\
-3. Run npm start\
+1. Clone application to your local folder
+2. Open terminal and run npm install
+3. Run npm start
 4. Open webbrowser at localhost:3000
 # Getting started
 ## Buttons meanings
