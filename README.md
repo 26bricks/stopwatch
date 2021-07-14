@@ -22,7 +22,6 @@ presses pause button|&nbsp;
 &nbsp;|changes pause button color to green
 &nbsp;|changes pause button label to start
 
-\
 Result:
 ![Simple start - stop usage image](/src/stopwatch_start_stop.png)
 
