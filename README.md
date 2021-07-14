@@ -1,13 +1,13 @@
 # Getting started with Stopwatch
 
-It is possible to comment logged actions.
-
 ## Buttons meanings
 
 Start / pause button: runs and alternates start and pause action\
 Log button: adds a log\
 Reset button: resets timer\
-Clear button: resets timer and clears logs
+Clear button: resets timer and clears logs\\
+
+It is possible to comment logged actions.
 
 # Usecases
 
@@ -23,11 +23,11 @@ presses start button|&nbsp;
 presses pause button|&nbsp;
 &nbsp;|pauses counter
 &nbsp;|changes pause button label to start
-/
+\
 ![Simple start - stop usage image](/src/stopwatch_start_stop.png)
 
 ## Commented championship usecase
 
 Roles: user, system
-/
+\
 ![Orienteering championship usage image](/src/stopwatch_orienteering.png)
