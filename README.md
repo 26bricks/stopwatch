@@ -11,7 +11,7 @@ Clear button: resets timer and clears logs
 
 # Usecases
 
-## Start - stop
+## Start - stop usecase
 
 Roles: user, system
 
@@ -21,11 +21,13 @@ presses start button|&nbsp;
 &nbsp;|starts counter
 &nbsp;|changes start button label to pause
 presses pause button|&nbsp;
-&nbsp;|pause counter
+&nbsp;|pauses counter
 &nbsp;|changes pause button label to start
-
+/
 ![Simple start - stop usage image](/src/stopwatch_start_stop.png)
 
-## Commented championship
+## Commented championship usecase
 
+Roles: user, system
+/
 ![Orienteering championship usage image](/src/stopwatch_orienteering.png)
